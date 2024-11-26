@@ -13,7 +13,14 @@ function App() {
             <li className="mt-4 text-[18px] text-[#B9BBBD] font-medium">
               Modern Admin Dashboard
             </li>
-            <li className="mt-20">Dashboard</li>
+            <li className="mt-20 flex gap-8 bg-[#00b07426] py-2 px-4 font-bold text-[#00B074]">
+              <img src="/home.svg" alt="" />
+              Dashboard
+            </li>
+            <li className="mt-4 flex gap-8 py-2 px-4 font-bold text-[#00B074]">
+              <img src="/home.svg" alt="" />
+              Dashboard
+            </li>
           </ul>
         </div>
         <div className="md:p-8 p-2 flex-1">
